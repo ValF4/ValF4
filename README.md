@@ -1,7 +1,7 @@
 ### Olá, meu nome é Lucas Santos
 
 - ⁉️ Sobre: Tenho 21 anos.
-- 🔭 Trabalhando atualmente com front-end.
+- 🔭 Trabalhando atualmente como front-end.
 - 🌱 Estudando javascript e python.
 - 📫 Contato: lucas01.santos@hotmail.com
 
