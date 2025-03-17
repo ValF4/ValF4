@@ -1,4 +1,4 @@
-### Olá, meu nome é Lucas Santos
+### Hi, my name´s Lucas
 
 - ⁉️ About: I'm 22 years old
 - 🔭 Working with game development using Roblox Studio.
