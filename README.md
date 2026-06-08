@@ -18,8 +18,8 @@
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=vercel&logoColor=white)](https://seu-portfolio.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/seu_id)
-[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/seu_usuario)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/714334068493385728)
+[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/F4_Val)
 
 </div>
 
@@ -69,9 +69,6 @@ Comportamentos inteligentes para NPCs e inimigos: máquinas de estado, pathfindi
 **🌐 Networking**
 Arquiteturas client-server robustas no Roblox, sincronização de estado, RemoteEvents/Functions e design orientado à segurança.
 
-    </td>
-    <td valign="top" width="50%">
-
 **📊 Data Persistence**
 Sistemas de salvamento confiáveis com DataStoreService, tratamento de erros, retry logic e estruturas de dados eficientes para jogadores.
 
@@ -89,8 +86,6 @@ Profiling, redução de lag, otimização de scripts, gestão de memória e boas
 
 **📦 RobloxTS & Flamework**
 Desenvolvimento tipado com RobloxTS e o framework Flamework para projetos complexos com injeção de dependência e decorators.
-
-    </td>
   </tr>
 </table>
 
@@ -125,8 +120,8 @@ Desenvolvimento tipado com RobloxTS e o framework Flamework para projetos comple
 | Projeto | Descrição | Stack |
 |---|---|---|
 | 🏛️ **VAL4 Studio — ID Visual** | Sistema de marca completo inspirado no Monumento das Três Raças de Goiânia | `Figma` `Design System` |
-| 🎮 **[Jogo Roblox #1]** | Descrição curta do jogo, mecânica principal e diferencial | `Roblox` `Lua` `RobloxTS` |
-| 🎮 **[Jogo Roblox #2]** | Descrição curta do jogo, mecânica principal e diferencial | `Roblox` `Flamework` |
+| 🎮 **Project Mesopotâmia** | Mesopotamia é um fighter 2D multiplayer no Roblox inspirado no Smash Bros e Hollow Knight. Dois ou mais jogadores se enfrentam em arenas suspensas, usando golpes, dashes e pulos duplos para acumular dano no oponente e lançá-lo para fora da arena. | `Roblox` `Lua` `RobloxTS` |
+| 🎮 **Little Doll (Close Eyes)** | Little Doll é um projeto de jogo multiplayer de terror desenvolvido utilizando Lua/Luau, com foco em arquitetura de sistemas, inteligência artificial, networking e otimização de performance. O jogo possui sistemas de combate, NPCs com Pathfinding e máquinas de estado, persistência de dados, ranking de jogadores, missões, diálogos, cutscenes e interfaces dinâmicas. O projeto foi estruturado utilizando princípios de modularização e escalabilidade para facilitar manutenção e evolução contínua. | `Roblox` `Flamework` |
 | 🌐 **Portfólio Pessoal** | Site pessoal com splash screen animada e identidade clean | `Next.js` `Framer Motion` |
 
 <br />
